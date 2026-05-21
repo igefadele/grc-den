@@ -1,0 +1,13 @@
+Dear Hiring Team,
+
+Most GRC professionals manage compliance on static spreadsheets and spend weeks chasing software engineers for audit logs or screenshot evidence. I am applying to be your company's Technical GRC Architect because I approach security governance from a different perspective: I look at compliance as a technical engineering constraint that should be handled automatically via the code deployment pipeline.
+
+With over a decade of enterprise software engineering experience building and scaling high-throughput distributed applications, I specialize in translating complex frameworks like ISO/IEC 27001, SOC 2, and GDPR into rigorous, programmatic infrastructure controls. For a platform/business like yours where data integrity, cross-border privacy boundaries, and secure multi-tenant isolation are vital—relying on manual checking leaves the system exposed to risk.
+
+In my previous leadership environments, I designed automated Compliance-as-Code pipelines that embedded vulnerability testing and secrets detection straight into central CI/CD workflows, reducing manual verification overhead by 75%. I have engineered application-layer encryption protocols, established strict Role-Based Access Control (RBAC) matrices, and audited automated data-processing pipelines to eliminate compliance drift without slowing down software development momentum.
+
+I understand how to structure infrastructure security so that it actively helps close enterprise B2B sales cycles. I look forward to discussing how I can help your organisation maintain a state of continuous audit readiness while supporting the velocity of your engineering squads.
+
+Sincerely,
+
+Ige Fadele

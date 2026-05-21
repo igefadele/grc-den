@@ -1,67 +1,145 @@
 # The 7-Week GRC Role Transition Playbook
 
-### **Please Note:**
-_I came a very technical background. With a BSc. in Mathematics, and over a decade in Software Engineering, System Architecture, Business Development, and Cross-Functional Team Leadership._
+## Please Note
 
-Hence, my suggested Playbook below may fit better for someone with my kind of background more than someone that comes with a different one.
+I came from a very technical background: a BSc. in Mathematics, plus over a decade of experience in software engineering, system architecture, business development, and cross-functional team leadership.
 
-The wisdom in all of this is for you to tailor the insights in the Playbook and domesticate them to fit your unique case. 
+Because of that, this playbook may fit someone with a technical or systems-oriented background more naturally than someone coming from a completely different path.
 
------------------
+The wisdom here is simple: tailor the insights, domesticate the steps, and adapt the playbook to your own unique case.
 
-## Week 1 & 2: Master the Industry Frameworks
+---
 
-You don't need to memorize everything, but you must speak the language fluently. 
+## Weeks 1 & 2: Master The Industry Frameworks
 
-* Focus heavily on the frameworks technical companies care about most.SOC 2 (Type I & Type II): The gold standard for SaaS companies. 
+You do not need to memorize everything, but you must learn to speak the language fluently.
 
-* Understand the 5 Trust Services Criteria (Security, Availability, Processing Integrity, Confidentiality, Privacy).ISO/IEC 27001: The global standard for Information Security Management Systems (ISMS). 
+### Focus Areas
 
-* Focus on how policies map to technical controls.NIST Risk Management Framework (RMF) / NIST SP 800-53: Essential if you ever want to deal with government, fintech, or enterprise infrastructure.
+- **SOC 2 (Type I & Type II):** The gold standard for many SaaS companies.
+- **SOC 2 Trust Services Criteria:** Understand Security, Availability, Processing Integrity, Confidentiality, and Privacy.
+- **ISO/IEC 27001:** The global standard for Information Security Management Systems (ISMS).
+- **NIST Risk Management Framework (RMF) / NIST SP 800-53:** Essential if you want to work with government, fintech, enterprise infrastructure, or highly regulated environments.
 
-### Action: 
-* Read executive summaries and compliance checklists for SOC 2 and ISO 27001. 
-* Understand how a developer's workflow (like git branch protection or CI/CD secrets management) directly maps to an audit control.
+### What To Understand
 
-## Week 3 & 4: Build Your "Top 0.1%" Portfolio Piece
+- How policies map to technical controls.
+- How technical systems create audit evidence.
+- How a developer workflow can support compliance.
+- How things like git branch protection, CI/CD approvals, secrets management, access control, vulnerability scanning, and logging map back to control requirements.
 
-Build a Technical Compliance Artifact that showcases both your engineering chops and GRC understanding.
+### Action Items
 
-The Project: Create a public GitHub repository containing a comprehensive, production-ready Information Security Policy & Controls Matrix tailored for a modern cloud-native SaaS application (e.g., a Next.js/Laravel app hosted on AWS/Vercel).
+- Read executive summaries and compliance checklists for SOC 2 and ISO 27001.
+- Learn the difference between policy, control, procedure, evidence, risk, and exception.
+- Pick one SaaS application you understand and map 5 security controls to its actual technical implementation.
 
-What to include:
+---
 
-1. A markdown-based Risk Assessment Matrix identifying risks (e.g., "SQL Injection", "Leaked API keys", "Unauthorized DB access"), calculating their risk score ($Likelihood \times Impact$), and defining technical mitigations.
+## Weeks 3 & 4: Build Your "Top 0.1%" Portfolio Piece
 
-2. An Access Control Policy explicitly defining Role-Based Access Control (RBAC) and Principle of Least Privilege for engineering teams.
+Build a technical compliance artifact that showcases both your engineering ability and your GRC understanding.
 
-3. A Change Management Policy detailing how code goes from staging to production securely (peer reviews, automated testing, vulnerability scanning).
+### The Project
 
-## Week 5: The Ultimate Flex – Automated Compliance-as-Code
+Create a public GitHub repository containing a comprehensive, production-ready **Information Security Policy & Controls Matrix** tailored for a modern cloud-native SaaS application.
 
-If you are a technical person, this is where you outshine your competitors. 
+Example application context:
 
-Traditional GRC analysts take weeks chasing developers for screenshots to prove compliance. You can show employers how to automate it.
+- A Next.js application hosted on Vercel.
+- A Laravel application hosted on AWS.
+- A Node.js API using PostgreSQL, Redis, and GitHub Actions.
+- Any real or realistic SaaS application you can explain clearly.
 
-Action: 
+### What To Include
 
-In your portfolio repository, set up and document an automated Compliance-as-Code pipeline.
+1. **Risk Assessment Matrix**
 
-Integrate a static analysis tool (like Semgrep or SonarQube) and a dependency scanner (like Dependabot or Snyk) into a GitHub Actions workflow.
+   Create a Markdown-based matrix identifying risks such as:
 
-Write a README section explaining how this automated workflow continuously enforces and verifies the "Change Management" and "Secure Coding" controls defined in your Day 3 policy.
+   - SQL Injection
+   - Leaked API keys
+   - Unauthorized database access
+   - Weak authentication controls
+   - Insecure cloud storage permissions
 
-## Week 6 & 7: Start Applying For Jobs
+   Include likelihood, impact, risk score, and technical mitigations.
 
-Tailor your Resume & Cover Letter, and start applying for jobs you feel confident in.
+   ```text
+   Risk Score = Likelihood x Impact
+   ```
 
-You may face some rejections in the begining for one reasons or the other, don't be discouraged. But use those oportunities to horn your skills, build real-life case studies, and forge ahead.
+2. **Access Control Policy**
 
-Study the different job postings and take advantage of the requirements be requested there to focus your attention on what the market demands and sharpen your skills in those areas. 
+   Define how Role-Based Access Control (RBAC) and the Principle of Least Privilege apply to engineering teams, administrators, contractors, and production systems.
 
-I have a file where I wrote about the Most Job Posting Requirements Categories. Search for it in this repo and go through it well.
+3. **Change Management Policy**
 
-You rock!
+   Explain how code moves from development to staging to production securely.
 
--- Your GRC Den Lord,
+   Cover items like:
+
+   - Pull request reviews
+   - Peer approvals
+   - Automated tests
+   - Vulnerability scanning
+   - Rollback plans
+   - Deployment logging
+
+---
+
+## Week 5: The Ultimate Flex - Automated Compliance-As-Code
+
+If you are a technical person, this is where you can outshine many competitors.
+
+Traditional GRC analysts may spend weeks chasing developers for screenshots to prove compliance. You can show employers how to automate evidence collection and control verification.
+
+### Action Items
+
+In your portfolio repository, set up and document an automated **Compliance-as-Code** pipeline.
+
+Integrate tools such as:
+
+- **Semgrep** or **SonarQube** for static application security testing.
+- **Dependabot** or **Snyk** for dependency vulnerability monitoring.
+- **TruffleHog** or **Gitleaks** for secrets detection.
+- **GitHub Actions** for automated workflow enforcement.
+
+### What To Document
+
+Write a README section explaining how the automated workflow continuously enforces and verifies the controls defined in your policies.
+
+For example:
+
+- The Semgrep scan supports secure coding controls.
+- Dependabot supports vulnerability management controls.
+- TruffleHog supports secrets management controls.
+- Pull request approvals support change management controls.
+- GitHub Actions logs provide audit evidence.
+
+---
+
+## Weeks 6 & 7: Start Applying For Jobs
+
+Tailor your resume and cover letter, then start applying for jobs you feel confident about.
+
+You may face rejections in the beginning for different reasons. Do not be discouraged. Use those opportunities to sharpen your skills, improve your positioning, build real-life case studies, and keep moving.
+
+### Action Items
+
+- Update your resume to reflect your GRC, security, risk, compliance, and technical control experience.
+- Rewrite your cover letter for each role.
+- Add your portfolio repository to your resume and LinkedIn profile.
+- Study job descriptions carefully and extract repeated requirements.
+- Use those repeated requirements to guide what you learn next.
+
+I have a file in this repo about the **Most Job Posting Requirement Categories**. Search for it, study it well, and use it to focus your preparation around what the market actually asks for.
+
+---
+
+## Final Word
+
+You rock.
+
+-- Your GRC Den Lord,  
 Ige
