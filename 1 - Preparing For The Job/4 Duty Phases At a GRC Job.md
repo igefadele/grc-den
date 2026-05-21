@@ -4,6 +4,12 @@ As a Technical GRC Analyst / Information Security Engineer, your job bridges the
 
 To master this role, think of your responsibilities not as a static list of tasks, but as a continuous cycle divided into four repeating operational phases.
 
+## Author's Note
+
+This guide is written from my practical experience working close to engineering, product, infrastructure, and compliance teams. I use a conversational tone intentionally because I want the ideas to feel like a real walkthrough, not a textbook definition.
+
+The examples here are generalized for learning. In a real organization, you should always adapt the phases, controls, evidence, and responsibilities to the company's actual systems, frameworks, risks, and compliance obligations.
+
 ## Phase 1: Governance & Alignment (The Policy Blueprint)
 This is where the rules are established. Your primary responsibility is translating massive compliance frameworks (like ISO 27001, SOC 2, or NIST) into practical engineering standards that developer teams can follow.
 

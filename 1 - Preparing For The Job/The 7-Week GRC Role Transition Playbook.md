@@ -8,6 +8,12 @@ Because of that, this playbook may fit someone with a technical or systems-orien
 
 The wisdom here is simple: tailor the insights, domesticate the steps, and adapt the playbook to your own unique case.
 
+## Author's Note
+
+This playbook is based on how I would personally approach a transition into technical GRC, especially from a software engineering, systems, product, infrastructure, or technical operations background. It is not meant to be a rigid prescription.
+
+I have kept the tone personal on purpose. My goal is to make the path feel doable, especially for readers who are switching careers or trying to translate their existing experience into GRC language.
+
 ---
 
 ## Weeks 1 & 2: Master The Industry Frameworks
@@ -36,7 +42,7 @@ You do not need to memorize everything, but you must learn to speak the language
 
 ---
 
-## Weeks 3 & 4: Build Your "Top 0.1%" Portfolio Piece
+## Weeks 3 & 4: Build Your Portfolio
 
 Build a technical compliance artifact that showcases both your engineering ability and your GRC understanding.
 

@@ -8,6 +8,16 @@ Even though the repo leans technical, non-technical professionals will also find
 
 ---
 
+## Author's Note
+
+I intentionally wrote parts of this repository in a direct, conversational style because I want the reader to feel guided, not lectured. Some sections sound like I am speaking to you face to face because that is the point: GRC can feel intimidating when you are entering the field, and I want the material to feel practical, human, and usable.
+
+The production-grade examples in this repository are derived from my professional experience across software engineering, product architecture, infrastructure, technical GRC, information security, integrations, and automation. They have been sanitized, generalized, and adapted for public learning. Any sensitive internal details, private company information, confidential customer data, credentials, or proprietary implementation specifics have been removed or replaced with safe public examples.
+
+Use the documents as learning references and starting templates. Before using any document in a real organization, adapt it to your actual systems, risks, legal obligations, compliance scope, and operating environment.
+
+---
+
 ## Who This Repository Is For
 
 This repository is designed for:

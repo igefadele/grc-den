@@ -6,6 +6,14 @@ This is a direct way to apply the 4 Duty Phases approach at LawSava.
 
 ---
 
+## Author's Note
+
+This sample is a practical, sanitized example showing how the 4 duty phases can be applied to a LegalTech product context. It is inspired by real technical GRC work patterns, but it has been generalized for public learning and portfolio use.
+
+Names, controls, scenarios, and implementation details should be adapted before use in a real organization. The goal is to teach the thinking process: how to move from framework selection, to threat modeling, to control implementation, to audit-ready evidence.
+
+---
+
 ## Phase 1: Governance & Compliance Framework Selection
 
 Before writing a single line of defensive code, you must define the legal and security frameworks LawSava must satisfy to sell to global law firms.
@@ -76,7 +84,7 @@ When an international enterprise law firm considers onboarding LawSava, its inte
 - **Immutable Audit Logging Setup:** Configure system logs using centralized logging tools. Every action is securely logged, including who viewed an invoice, who downloaded a court document, and who deleted a hearing. Make these logs immutable so they cannot be modified or erased, even by an administrative user.
 - **Automated Evidence Collection:** Map LawSava's production AWS settings to a Continuous Controls Monitoring platform, such as Drata or Vanta. This setup automatically captures point-in-time proof that database encryption is active, daily point-in-time recovery (PITR) backups are passing, and all structural patches have cleared code review.
 
-### The Ultimate "Top 0.1%" Pitch To LawSava's Clients
+### A Sample Pitch To LawSava's Clients
 
 When external auditors or major corporate legal departments review the platform, you step up and lead the technical security presentation:
 

@@ -5,6 +5,14 @@
 
 ---
 
+## Author's Note
+
+This matrix is a sanitized and generalized sample derived from practical technical GRC and information security work. It is designed to show how risks, controls, residual exposure, and verification evidence can be structured for a modern SaaS environment.
+
+Do not use it as-is without review. Replace the environment, risks, scoring, controls, tools, owners, evidence sources, and regulatory mappings with what is true for your own organization.
+
+---
+
 ## 1. Risk Scoring Methodology
 
 | Level | Likelihood (Probability of Occurrence) | Impact (Severity of Business Damage) |
