@@ -289,7 +289,7 @@ I am also **relocation ready** if the role is based in another country and the o
 - **X (Twitter):** [x.com/igefadele](https://x.com/igefadele)
 - **Instagram:** [instagram.com/igefadele](https://instagram.com/igefadele)
 - **TikTok:** [tiktok.com/@igefadele](https://tiktok.com/@igefadele)
-- **YouTube:** [youtube.com/@igefadele](https://github.com/@igefadele)
+- **YouTube:** [youtube.com/@igefadele](https://youtube.com/@igefadele)
 
 ---
 
