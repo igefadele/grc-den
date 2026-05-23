@@ -1,14 +1,17 @@
 # IGE FADELE
-**Technical GRC Analyst / Information Security Engineer** Location: Remote, In-Office, and Relocation Ready  
+**Technical GRC Engineer / Security Compliance Architect** 
+
+Location: Remote, In-Office, and Relocation Ready  
 Availability: 06:00 - 23:00 UTC+1 (Flexible for international shifts)  
 Comfortable With: Full-Time, Part-Time employment, or B2B Contract arrangements  
-Phone & WA: +234 903 2348 435 | Email: igefad110@gmail.com | LinkedIn: linkedin.com/in/igefadele  
-GitHub: github.com/igefadele | Portfolio Website: igefadele.savadub.com  
+
+Phone & WA: [+234 903 2348 435](https://wa.me/2349032348435) | Email: [igefad110@gmail.com](mailto:igefad110@gmail.com) | LinkedIn: [linkedin.com/in/igefadele](https://linkedin.com/in/igefadele)  
+GitHub: [github.com/igefadele](https://github.com/igefadele) | Portfolio Website: [igefadele.savadub.com](https://igefadele.savadub.com)  
 
 ---
 
 ### PROFILE SUMMARY
-Highly analytical Technical GRC Analyst and Information Security Engineer with over 10 years of enterprise software engineering experience auditing, securing, and scaling distributed digital infrastructure. Expert in translating complex compliance frameworks (ISO/IEC 27001, NIST, CIS Controls, SOC 2, GDPR) into rigorous, automated technical security controls across Fintech, LegalTech, and Healthcare SaaS sectors. Proven track record of leveraging generative AI tools and custom automation pipelines to accelerate risk treatment, orchestrate continuous evidence collection, and eliminate security drift without impeding software engineering velocity.
+Highly analytical Technical GRC Engineer and Security Compliance Architect with over 10 years of enterprise software engineering experience auditing, securing, and scaling distributed digital infrastructure. Expert in translating complex compliance frameworks (ISO/IEC 27001, NIST, CIS Controls, SOC 2, GDPR) into rigorous, automated technical security controls across Fintech, LegalTech, and Healthcare SaaS sectors. Proven track record of leveraging generative AI tools and custom automation pipelines to accelerate risk treatment, orchestrate continuous evidence collection, and eliminate security drift without impeding software engineering velocity. Creator of [GRC Crest](https://github.com/igefadele/grc-crest) (the open-source fully automated Governance, Risk & Compliance (GRC) operations platform — built entirely as software, not spreadsheets), and [GRC Den](https://github.com/igefadele/grc-den) (the open-source GRC practical learning and execution repository for professionals and organisations).
 
 ---
 

@@ -8,6 +8,11 @@ Even though the repo leans technical, non-technical professionals will also find
 
 ---
 
+### Author: [Ige Fadele](https://igefadele.savadub.com)
+[Website](https://igefadele.savadub.com) | [LinkedIn](https://linkedin.com/in/igefadele) | [Facebook](https://facebook.com/igefadele) | [X (Twitter)](https://x.com/igefadele) | [Instagram](https://instagram.com/igefadele) | [TikTok](https://tiktok.com/@igefadele) | [YouTube](https://youtube.com/@igefadele) | [GRC Crest](https://github.com/igefadele/grc-crest)
+
+---
+
 ## Author's Note
 
 I intentionally wrote parts of this repository in a direct, conversational style because I want the reader to feel guided, not lectured. Some sections sound like I am speaking to you face to face because that is the point: GRC can feel intimidating when you are entering the field, and I want the material to feel practical, human, and usable.
@@ -300,6 +305,7 @@ I am also **relocation ready** if the role is based in another country and the o
 - **Instagram:** [instagram.com/igefadele](https://instagram.com/igefadele)
 - **TikTok:** [tiktok.com/@igefadele](https://tiktok.com/@igefadele)
 - **YouTube:** [youtube.com/@igefadele](https://youtube.com/@igefadele)
+- **GRC Crest:** [github.com/igefadele/grc-crest](https://github.com/igefadele/grc-crest)
 
 ---
 
@@ -318,3 +324,14 @@ If you are trying to transition into GRC, do not be intimidated by the size of t
 Start with the basics. Learn the language. Understand the business risks. Study how systems work. Practice writing clear controls. Learn how evidence is collected. Then keep connecting governance to real technical execution.
 
 That is where strong GRC professionals are made.
+
+
+---
+
+## Recommended: [GRC Crest](https://github.com/igefadele/grc-crest)
+
+The only GRC platform built the way software engineers build infrastructure — as code, in pipelines, monitored in real-time, and automated end-to-end.
+
+It's free and open-source. I created [GRC Crest](https://github.com/igefadele/grc-crest) to help the GRC community, organisations, and  professionals
+
+---
