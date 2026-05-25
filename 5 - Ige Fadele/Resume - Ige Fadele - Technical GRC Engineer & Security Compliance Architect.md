@@ -26,6 +26,19 @@ Highly analytical Technical GRC Engineer and Security Compliance Architect with 
 
 ---
 
+### MY GRC INDUSTRY CONTRIBUTIONS:
+I’m the Creator & Maintainer of the two highly useful open-source projects in the GRC eco-system today.
+
+1. **GRC Crest | Enterprise GRC Command Center** | [grccrest.savadub.com](https://grccrest.savadub.com)
+
+A centralized AI-powered orchestration hub that helps companies automate their security in a continuous design, and automate GRC actions using AI, as code, saving up above 90% of time spent on manual tasks, and giving Executives a turnaround at 10x
+
+2. **GRC Den | Continuous Governance Blueprint & Training Resources** | [github.com/igefadele/grc-den](https://github.com/igefadele/grc-den)
+
+An open-source repository of production-grade GRC artifacts, technical security policies, and secure SDLC frameworks. Also, you learn how to become a GRC Analyst from the resources.
+
+---
+
 ### PROFESSIONAL EXPERIENCE
 
 **Savadub Limited** | Lagos, Nigeria  
