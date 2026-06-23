@@ -142,7 +142,19 @@ Private data has been edited out or replaced with information that can be made p
 
 ### Included Asset Categories
 
-The production-grade assets include examples such as:
+#### Frameworks Case Study Projects For:
+
+- SOC 2 Framework
+- ISO/IEC 27001 Framework
+- GDPR Framework
+- CIS 18 Framework
+- OWASP SAMM Framework
+- OWASP Top 10 Framework
+- OWASP API 10 Framework
+- NIST CSF Framework
+
+#### The production-grade assets also include policies, SOPs, etc, such as:
+
 
 - Threat models
 - Secure SDLC policies
