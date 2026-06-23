@@ -6,37 +6,12 @@ PHPStan is an advanced static analysis framework focused on the PHP ecosystem. I
 
 ## Why It's Needed
 
-PHP's dynamic nature makes it easy for hidden runtime `TypeError` issues to pass unnoticed until they reach production. PHPStan enforces stronger typing expectations and scans execution paths to confirm functions receive the expected data profiles.
+---
 
-## How To Set It Up
+## N.B:
 
-Install PHPStan via Composer into development dependencies:
+__This file has more content, but we've moved all complete files and the whole repo to a new platform.__
 
-```bash
-composer require --dev phpstan/phpstan
-```
+**We've move GRC Den to a proper community platform for your best experience.**
 
-Create a base execution rules manifest named `phpstan.neon`:
-
-```yaml
-parameters:
-    level: 8 # Scale rules from 0 (loose) to 9 (strict)
-    paths:
-        - app
-        - core
-```
-
-Execute PHPStan through the standard CLI:
-
-```bash
-vendor/bin/phpstan analyze
-```
-
-## Best Use Case
-
-Open-source framework stability and custom architecture refactoring. PHPStan verifies that type safety rules, object schemas, and internal core methods pass strict architectural constraints before code ships.
-
-## Alternatives
-
-- Psalm
-- Phan
+**Get the complete repo for free, check the link to donwload everything easily on the ReadME file**

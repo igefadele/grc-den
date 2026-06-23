@@ -1,8 +1,11 @@
 # Formal Security Post-Mortem Assessment Report Template
 
 **Incident Tracking Identifier:** CVE-2026-XXXX (Savv Framework Core)  
+
 **Target Classification:** Public Coordinated Security Disclosure  
+
 **Date of Assessment:** May 19, 2026  
+
 **Lead Coordinator:** Savv Security Architecture Unit  
 
 ---

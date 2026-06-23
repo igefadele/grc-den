@@ -1,7 +1,9 @@
 # STB Master Compliance Matrix: SOC 2 & ISO 27001 Controls Mapping
 
 **Evaluation Context:** AI-SaaS Audit Alignment & Automated Architecture Mapping
+
 **Operating Status:** Continuous Compliance Monitoring Active
+
 **Target Scope:** STB Cloud Ecosystem & Automation Pipelines
 
 ---

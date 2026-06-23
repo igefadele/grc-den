@@ -6,27 +6,13 @@ Dependabot is an automated dependency management tool natively integrated into G
 
 ## Why It's Needed
 
-Staying on top of security patches across multiple codebases manually is time-consuming. Dependabot monitors upstream security advisories daily and actively fixes code by generating automated update pull requests.
 
-## How To Set It Up
+---
 
-Create a configuration file at `.github/dependabot.yml`:
+## N.B:
 
-```yaml
-version: 2
-updates:
-  - package-ecosystem: "npm" # Can change to composer, gomod, pip, etc.
-    directory: "/"
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 5
-```
+__This file has more content, but we've moved all complete files and the whole repo to a new platform.__
 
-## Best Use Case
+**We've move GRC Den to a proper community platform for your best experience.**
 
-Automated software ecosystem maintenance. Dependabot keeps platforms relying on high-velocity updates stable by isolating minor and patch security releases into organized pull requests.
-
-## Alternatives
-
-- Renovate Bot
-- Greenkeeper
+**Get the complete repo for free, check the link to donwload everything easily on the ReadME file**

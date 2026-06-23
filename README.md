@@ -23,6 +23,14 @@ Use the documents as learning references and starting templates. Before using an
 
 ---
 
+# IMPORTANT 
+
+**We've move GRC Den to a proper community platform for your best experience.**
+
+**Get the complete repo for free, check the link to donwload everything easily at [https://savadub.com/grc-den](https://savadub.com/grc-den)**
+
+---
+
 ## Who This Repository Is For
 
 This repository is designed for:
@@ -197,6 +205,14 @@ Please do not copy personal details directly. Use the files as examples and rewr
 
 ---
 
+# IMPORTANT 
+
+**We've move GRC Den to a proper community platform for your best experience.**
+
+**Get the complete repo for free, check the link to donwload everything easily at [https://savadub.com/grc-den](https://savadub.com/grc-den)**
+
+---
+
 ## Suggested Learning Path
 
 If you are new to GRC, follow this order:
@@ -333,5 +349,14 @@ That is where strong GRC professionals are made.
 The only GRC platform built the way software engineers build infrastructure — as code, in pipelines, monitored in real-time, and automated end-to-end.
 
 It's free and open-source. I created [GRC Crest](https://github.com/igefadele/grc-crest) to help the GRC community, organisations, and  professionals
+
+---
+
+
+# IMPORTANT 
+
+**We've move GRC Den to a proper community platform for your best experience.**
+
+**Get the complete repo for free, check the link to donwload everything easily at [https://savadub.com/grc-den](https://savadub.com/grc-den)**
 
 ---
